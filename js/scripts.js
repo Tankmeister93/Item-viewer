@@ -1,4 +1,3 @@
-var repository = [ name, height, types];
-var name = Weedle;
-var height = 0.3;
-var types = 'bug'+'poison';
+alert('Hello World');
+var favoriteFood = 'pizza';
+document.write(favoriteFood);
